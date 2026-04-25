@@ -1,0 +1,6 @@
+apiVersion: v2
+name: mi-app
+description: Aplicación web simple para práctica DevOps
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
